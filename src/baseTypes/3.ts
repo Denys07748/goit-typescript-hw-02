@@ -6,4 +6,4 @@ if(typeof some === 'string') {
     str = some;
 }
 
-export {};
+export {some};
